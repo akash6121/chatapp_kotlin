@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311101871584",
+    "project_id": "chatappkot-c93a6",
+    "storage_bucket": "chatappkot-c93a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311101871584:android:4304305da8b7ff75ce0785",
+        "android_client_info": {
+          "package_name": "com.example.chatappkot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311101871584-148l90dbtscf14fsfps9p945l1a1jmfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2xDMWTLoQWjmM4IxmZ2FgspavtyAf_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311101871584-148l90dbtscf14fsfps9p945l1a1jmfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
